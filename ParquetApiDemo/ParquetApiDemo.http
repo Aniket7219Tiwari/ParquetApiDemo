@@ -1,0 +1,6 @@
+@ParquetApiDemo_HostAddress = http://localhost:5038
+
+GET {{ParquetApiDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
